@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 
 Ronny Opunga - [Github](https://github.com/OPunga) / [Twitter](https://twitter.com/Ronnyopunga)
 
-Kamila Gojobe - [Github](https://github.com/KamilaKaru)
+Kamila Gojobe - [Github](https://github.com/KamilaKaru) / [Twitter](https://twitter.com/karukamila)
 
 Second part of Airbnb: Joann Vuong
 ## License
